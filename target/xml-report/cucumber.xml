@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="7" time="8">
+    <testcase classname="ResultsetMetaData methodlari ile JDBC sorgusu calistirma" name="Staff tablosundan &quot;ID&quot; sorgulama" time="2.627">
+        <system-out>
+            <![CDATA[* Database baglantisi kurulur...............................................passed
+* Staff tablosundaki "id" leri listelenir...................................passed
+* Verilen "5" dogrulanir....................................................passed
+* Database baglantisi kapatilir.............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="ResultsetMetaData methodlari ile JDBC sorgusu calistirma" name="Staff tablosundan &quot;ID&quot; sorgulama 2" time="0.847">
+        <system-out>
+            <![CDATA[* Database baglantisi kurulur...............................................passed
+* Staff tablosundaki "id" leri listelenir...................................passed
+* Verilen "2" dogrulanir....................................................passed
+* Database baglantisi kapatilir.............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="ResultsetMetaData methodlari ile JDBC sorgusu calistirma" name="Staff tablosundan &quot;ID&quot; sorgulama 3" time="0.739">
+        <system-out>
+            <![CDATA[* Database baglantisi kurulur...............................................passed
+* Staff tablosundaki "id" leri listelenir...................................passed
+* Verilen "3" dogrulanir....................................................passed
+* Database baglantisi kapatilir.............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="ResultsetMetaData methodlari ile JDBC sorgusu calistirma" name="Staff tablosundan &quot;ID&quot; sorgulama 4" time="0.734">
+        <system-out>
+            <![CDATA[* Database baglantisi kurulur...............................................passed
+* Staff tablosundaki "id" leri listelenir...................................passed
+* Verilen "4" dogrulanir....................................................passed
+* Database baglantisi kapatilir.............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="ResultsetMetaData methodlari ile JDBC sorgusu calistirma" name="Staff tablosundan &quot;ID&quot; sorgulama 5" time="0.709">
+        <system-out>
+            <![CDATA[* Database baglantisi kurulur...............................................passed
+* Staff tablosundaki "id" leri listelenir...................................passed
+* Verilen "1" dogrulanir....................................................passed
+* Database baglantisi kapatilir.............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="ResultsetMetaData methodlari ile JDBC sorgusu calistirma" name="Staff tablosundan &quot;ID&quot; sorgulama 6" time="0.709">
+        <system-out>
+            <![CDATA[* Database baglantisi kurulur...............................................passed
+* Staff tablosundaki "id" leri listelenir...................................passed
+* Verilen "100" dogrulanir..................................................passed
+* Database baglantisi kapatilir.............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="ResultsetMetaData methodlari ile JDBC sorgusu calistirma" name="Staff tablosundan &quot;ID&quot; sorgulama 7" time="0.678">
+        <system-out>
+            <![CDATA[* Database baglantisi kurulur...............................................passed
+* Staff tablosundaki "id" leri listelenir...................................passed
+* Verilen "10" dogrulanir...................................................passed
+* Database baglantisi kapatilir.............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
